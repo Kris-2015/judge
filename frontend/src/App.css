@@ -1,0 +1,74 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #35dc80 !important;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+.form-control{
+  border-radius:1.5rem !important;
+}
+
+.btn-default {
+  margin-right: 15px;
+}
+
+.learn-more {
+  background-color: #fff !important;
+  color: #2674ab !important;
+  border-color: #2674ab !important;
+  border-radius: 1.5rem !important;
+}
+
+.next-btn {
+  color: #171616 !important;
+  background-color: #dcb035 !important;
+  font-weight: 500 !important;
+  border-radius: 1.5rem !important;
+}
+
+.sign-in, .copyright {
+  text-align: center;
+}
+
+.sign-in a {
+  color: #dcb035;
+  text-decoration: underline;
+}
+
+.sign-in a:hover {
+  color: #dcb035;
+}
+
+.create-account {
+  color: #ff0000;
+  text-align: center;
+}
+
+.wavyShape {
+  background-color: red;
+  height: 100px;
+  border-radius: 1.5rem;
+}
+
+.welcome-box {
+  margin-right: 150px;
+}
+
+.card {
+  border-radius: 1.5rem !important;
+  height: 80vh;
+}
+
+.card-body {
+  margin-left: 35px;
+  margin-top: 65px;
+}
