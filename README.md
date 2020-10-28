@@ -19,6 +19,6 @@
 - Configure database settting with db name, username and password. Change port if required
 - Run migration command "python manage.py makemigrations" for create tables in postgreSQL
 
-### Frontend
+### React Page Setup
 1. Run npm install for install basic react package for application
 2. Run npm start to start the development server
